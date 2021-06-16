@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>Hi there 👋</p>
-  <p>I'm a Full Stack Web developer, 3D Graphic Designer and Video Game developer.</p>
+  <p>I'm a Full Stack Web developer.</p>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=FrederickMih&count_private=true&show_icons=true&theme=light)
   
