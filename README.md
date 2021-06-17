@@ -1,13 +1,13 @@
 ### Hey there 👋
 
 #### Mih Frederick
-> Currently enrolled at Microverse,  a remote pair programming school as a Full-stack Developer.
+> Currently enrolled at Microverse,  a remote pair programming school as a full-stack web developer.
 
 
 
 <div align="center">
   <p>Hi there 👋👋👋</p>
-  <p>I'm a Full Stack Web developer.</p>
+  <p>I'm a full-stack web developer.</p>
   
 <br />
   
