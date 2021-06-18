@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-#### Mih Frederick
+### Mih Frederick
 > Currently enrolled at Microverse,  a remote pair programming school as a full-stack web developer.
 
 
