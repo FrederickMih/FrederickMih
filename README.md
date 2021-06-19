@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mih Frederick</h1>
-<h3 align="center">A full-stack developer</h3>
-<h6 align="center"> Currently enrolled at Microverse,  a remote pair programming school</h6>
+<h2 align="center"><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h2>
+I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self motivation and natural passion for continous learning and development.Currently enrolled at Microverse,  a remote pair programming school.
+<br />
+<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=200 height=140>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=140/>
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&margin-w=20&show_icons=true&theme=radical) -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyebukayire&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
+
+  </p>
+
 
 <div align="center">
  
@@ -71,6 +84,8 @@
 | [![gitl]][git]     | [![herokul]][heroku] | [![netlifyl]][netlify] | [![webpl]][webp]     |                    |                  |
   
   <br/>
+ 
+ 
   
 
     
