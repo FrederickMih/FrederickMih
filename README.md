@@ -7,11 +7,6 @@ I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self-motivat
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=200 height=140>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=140/>
 </p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyebukayire&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyebukayire&margin-w=20&show_icons=true&theme=radical) -->
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyebukayire&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
-
   </p>
 
 
