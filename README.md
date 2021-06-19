@@ -1,17 +1,12 @@
-### Hey there 👋
-
-### Mih Frederick
-> Currently enrolled at Microverse,  a remote pair programming school as a full-stack web developer.
-
-
+<h1 align="center">Hi 👋, I'm Mih Frederick</h1>
+<h3 align="center">A full-stack developer</h3>
+<h6 align="center"> Currently enrolled at Microverse,  a remote pair programming school</h6>
 
 <div align="center">
-  <p>Hi there 👋👋👋</p>
-  <p>I'm a full-stack web developer.</p>
-  
+ 
 <br />
   
-### Connect with me:  
+### 📫 Connect with me:  
   
 <br />
 
@@ -80,6 +75,3 @@
 
     
 </div>
-
-
-
