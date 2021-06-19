@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mih Frederick</h1>
 <h2 align="center"><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h2>
-I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self motivation and natural passion for continous learning and development.Currently enrolled at Microverse,  a remote pair programming school.
+I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self-motivation and a natural passion for continuous learning and development. Currently enrolled at Microverse, a global collaborative remote pair programming school for software engineers.
 <br />
 <br />
 <p align="center">
