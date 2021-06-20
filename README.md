@@ -7,8 +7,6 @@ I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self-motivat
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=200 height=140>
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=140/>
 </p>
-  </p>
-
 
 <div align="center">
  
