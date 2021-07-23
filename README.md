@@ -18,7 +18,7 @@ I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self-motivat
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederick-mih/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MihFrederick)
-[![](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=teal)](https://frederickmih.github.io/Mih_Frederick/)
+[![](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=red)](https://frederickmih.github.io/Mih_Frederick/)
 <br />
  ### You can equally reach me at:  **fredtimermih@gmail.com** 
 <br />
