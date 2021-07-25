@@ -12,7 +12,7 @@ I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self-motivat
  
 <br />
   
-### 📫 Connect with me:  
+### 📫 Connect with me:-  
   
 <br />
 
