@@ -12,7 +12,7 @@ I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self-motivat
  
 <br />
   
-### 📫 Connect with me:-  
+### 📫 Connect with me:
   
 <br />
 
@@ -75,7 +75,7 @@ I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self-motivat
 | [![rubyl]][ruby]   | [Ruby][ruby]         | [![rorl]][ror]         | [Ruby on Rails][ror] | [![rspecl]][rspec] | [RSpec][rspec]   |
 |                    |                      |                        |                      |                    |                  |
 | [![mysqll]][mysql] | [MySQL][mysql]       | [![pgl]][pg]           | [PostgreSQL][pg]     | [![sqlitel]][pg]   | [SQLite][sqlite] |
-| [![gitl]][git]     | [![herokul]][heroku] | [![netlifyl]][netlify] | [![webpl]][webp]     |                    |                  |
+| [![gitl]][git]     | [![Herokul]][heroku] | [![netlifyl]][netlify] | [![webpl]][webp]     |                    |                  |
   
   <br/>
  
