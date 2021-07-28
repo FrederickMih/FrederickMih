@@ -77,7 +77,7 @@ I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self-motivat
 | [![mysqll]][mysql] | [MySQL][mysql]       | [![pgl]][pg]           | [PostgreSQL][pg]     | [![sqlitel]][pg]   | [SQLite][sqlite] |
 | [![gitl]][git]     | [![Herokul]][heroku] | [![netlifyl]][netlify] | [![webpl]][webp]     |                    |                  |
   
-  <br/>
+ 
  
  
   
