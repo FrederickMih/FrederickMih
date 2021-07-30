@@ -64,7 +64,7 @@ I'm a Full-Stack Software Developer and an ✨IT enthusiast✨ with self-motivat
 [netlifyl]: https://img.shields.io/badge/-Netlify-1e7589
 [webpl]: https://img.shields.io/badge/-Webpack-1c74ba
 
-### SKILLS:
+## SKILLS:
 
 | Lang.              | View docs            | FRM                    | View docs            | Test FW            | View docs        |
 | ------------------ | -------------------- | ---------------------- | -------------------- | ------------------ | ---------------- |
